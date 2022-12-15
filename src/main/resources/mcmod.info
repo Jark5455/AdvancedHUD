@@ -1,0 +1,17 @@
+[
+  {
+	  "modid": "advancedhud",
+	  "name": "Advanced HUD",
+	  "description": "A continuation of Advanced HUD by Jark",
+	  "version": "Version [1.0-SNAPSHOT] for 1.8.9",
+	  "credits": "Created by TurboSlow, Maintained by maxpowa, Further maintained by Jark",
+	  "logoFile": "",
+	  "mcversion": "1.8.9",
+	  "url": "",
+	  "updateUrl": "",
+	  "authors": [ "Jark", "maxpowa", "TurboSlow" ],
+	  "parent":"",
+	  "screenshots": [],
+	  "dependencies": []
+  }
+]
